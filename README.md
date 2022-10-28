@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Mariana...
 - 🔭 I’m currently working at Amgen as an undergrad co-op.
 - 🌱 I’m currently learning about data analytics and UX design.
 - 👯 I’m looking to collaborate on robotics and automation projects/research.
