@@ -5,6 +5,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariana-perez-mendez/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a twin sister.
+
+![MariPM2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPM2&show_icons=true&theme=radical)
+
 <!--
 **MariPM2/MariPM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
